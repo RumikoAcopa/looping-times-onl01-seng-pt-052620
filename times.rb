@@ -3,4 +3,3 @@ def using_time do
   puts "Wingardium Leviosa"
 end
 end
-
